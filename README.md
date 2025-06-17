@@ -500,3 +500,4 @@ Source Code :-
 **************************
 So it's Process are repeated when loss will optimized in give n range of training.
 ==============
+Thanks!!
